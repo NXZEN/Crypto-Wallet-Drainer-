@@ -39,7 +39,7 @@
 
 <b>💵 PRICING</b>
 
-<b>Full source code price:</b> <code>$1,000 USDT</code>
+<b>Full source code price:</b> <code>$300 USDT</code>
 
 🎥 Get a <b>live demo</b> before purchasing the script
 
