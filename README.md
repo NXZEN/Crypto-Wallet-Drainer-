@@ -19,16 +19,6 @@
 💎 <b>USDC (USD Coin)</b>
 🐸 <b>Memecoins</b>
 
-<b>📱 TELEGRAM NOTIFICATIONS</b>
-
-<i>Real-time updates on user actions and payments include:</i>
-
-✅ Domain
-🌐 IP Address
-💳 Wallet Type
-📬 Address
-💰 Total Wallet Balance
-
 <b>⭐ ADVANTAGES OF OUR DRAINER</b>
 
 🔒 No red flags on your website
